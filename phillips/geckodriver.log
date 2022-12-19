@@ -1,0 +1,31 @@
+1642598952095	geckodriver	INFO	Listening on 127.0.0.1:54224
+1642598955166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SADIGG~1\\AppData\\Local\\Temp\\rust_mozprofiless7wix"
+1643191005704	geckodriver	INFO	Listening on 127.0.0.1:50546
+1643191008762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SADIGG~1\\AppData\\Local\\Temp\\rust_mozprofileTvZvyO"
+1643191009010	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sadig Goja\\AppData\\Local\\Temp\\rust_mozprofileTvZvyO\\search.json.mozlz4", (void 0)))
+1643191010800	Marionette	INFO	Listening on port 50556
+1643191010830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.phillips.com/js/dist/libs.js?v=4.6.0, line 43: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.phillips.com"
+1643191031583	Marionette	INFO	Stopped listening on port 50556
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643191048858	geckodriver	INFO	Listening on 127.0.0.1:50664
+1643191051908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SADIGG~1\\AppData\\Local\\Temp\\rust_mozprofile9W3Lso"
+1643191052175	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sadig Goja\\AppData\\Local\\Temp\\rust_mozprofile9W3Lso\\search.json.mozlz4", (void 0)))
+1643191053945	Marionette	INFO	Listening on port 50673
+1643191053973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.phillips.com/js/dist/libs.js?v=4.6.0, line 43: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.phillips.com"
+JavaScript error: https://www.phillips.com/detail/patek-philippe/NY080121/1T, line 60: SyntaxError: expected expression, got ','
+JavaScript warning: https://www.phillips.com/js/dist/libs.js?v=4.6.0, line 43: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.phillips.com/detail/patek-philippe/NY080121/2A, line 60: SyntaxError: expected expression, got ','
+JavaScript warning: https://www.phillips.com/js/dist/libs.js?v=4.6.0, line 43: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.phillips.com/detail/patek-philippe/NY080121/2B, line 60: SyntaxError: expected expression, got ','
+JavaScript warning: https://www.phillips.com/js/dist/libs.js?v=4.6.0, line 43: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.phillips.com/detail/patek-philippe/NY080121/3, line 60: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phillips.com/detail/patek-philippe/NY080121/4, line 60: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phillips.com/detail/patek-philippe/NY080121/5, line 60: SyntaxError: expected expression, got ','
